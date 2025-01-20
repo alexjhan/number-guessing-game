@@ -1,7 +1,7 @@
 import time
 from rich.console import Console
 from rich.panel import Panel
-from jugar import elegir_amplitud_y_intentos
+from configuracion import elegir_amplitud_y_intentos
 console = Console()
 
 def main():
